@@ -1,0 +1,220 @@
+#ww {
+   color: rgb(70, 185, 147);
+   text-align: center;
+   font-size: 50px;
+   font-family:salsa;
+   background-color: aqua;
+}
+@font-face {
+          font-family: Salsa ;
+          src: url(./Salsa-Regular.ttf);
+}
+.a {
+   color: rgb(15, 2, 2);
+   margin-inline-start: 5px ;
+   
+}
+.aa {
+    color: red;
+    display: inline-block;
+}
+/* .b {
+      color:brown ;
+      display: inline-block; */
+/* } */
+
+.ab {
+   color: rgb(15, 2, 2);
+}
+/* .bb {
+   color: yellow;
+   display: inline-block; */
+ /* } */
+.abc {
+   color:rgb(202, 202, 49);
+   display: inline-block; 
+}
+.z {
+   color: black;
+}
+.zz {
+   color: rgb(194, 152, 160);
+display: inline;
+}
+.zzz {
+   color: rgb(24, 21, 22);
+}
+.zx {
+   color: rgb(167, 71, 71);
+display: inline;
+}
+.zxc {
+      color: black;
+}
+.za {
+     display: inline-block;
+     color: brown;
+}
+.m {
+    color: black;
+}
+.mm {
+     color: rgb(240, 166, 28);
+     display: inline-block;
+}
+ .n {
+   color: black;
+ }
+.nm {
+     display: inline-block;
+     color: yellow ;
+}
+.u {
+   color: black;
+}
+.hh {
+      display: inline-block;
+      color: peru;
+}
+.k {
+    color: black;  
+}
+.kk {
+     display: inline-block;
+     color: rgb(255, 111, 255);
+}
+.j {
+     color: black;
+}
+.jj {
+color: rgb(20, 131, 131);
+display: inline-block;
+}
+.k {
+   color: black;
+}
+.kkk {
+   display: inline-block;
+   color:rgb(19, 139, 99) ;
+}
+.l {
+color: black;
+}
+.ll {
+   display: inline-block;
+   color: rgb(207, 104, 14);
+}
+.mmm {
+color: black;
+}
+.mmmm {
+    color: rgb(107, 58, 58);
+    display: inline-block;
+}
+.na {
+       color: black;
+}
+.nna {
+      display: inline;
+      color: rgba(82, 20, 20, 0.877);
+}
+.o {
+   color: black;
+}
+.oo {
+    display: inline-block;
+    color:rgb(224, 165, 54);
+}
+.p {
+   color: black;
+}
+.pp {
+    display: inline; 
+    color: rgb(160, 149, 135);
+}
+.q{
+  color: black;
+}
+.qq{
+   color: brown;
+   display: inline-block;
+}
+.r{
+   color: black;
+ }
+ .rr{
+    color: rgb(128, 26, 138);
+    display: inline-block;
+ }
+ .s {
+   color: black;
+ }
+.ss { 
+   display: inline-block;
+   color: yellow;
+}
+.t {
+   color: black;
+}
+.tt {
+   color: greenyellow;
+   display: inline-block;
+}
+.u {
+   color: black;
+}
+.uu {
+   color: rgb(50, 165, 201);
+   display: inline-block;
+}
+.v {
+   color: black;
+}
+.vv {
+   color: rgb(196, 207, 38);
+   display: inline-block;
+}
+ .wwww { 
+    color: black;
+}
+.www {
+      display: inline-block;
+      color: rgb(121, 34, 34);
+} 
+.x { 
+   color: black;
+}
+.xx {
+     display: inline-block;
+     color:gray;
+} 
+.y {
+color: black;
+}
+.yy {
+color: rgb(143, 13, 13);
+display: inline-block;
+}
+.zy {
+   color: black;
+   }
+ .zzy {
+   color: gray;
+   display: inline-block;
+   }
+   button {
+      color: black;
+      background-color: rgb(148, 148, 212);
+      font-size: 50px;
+   }
+fieldset {
+   background-color: aqua;
+}
+#abcd {
+   font-size: 30px;
+   background-color: aqua;
+}
+
+
+
+
